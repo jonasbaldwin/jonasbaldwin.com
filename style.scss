@@ -52,7 +52,7 @@ h3 {
   padding: 10px 0 10px 0;
   z-index: 100;
   //top:0;
-  background-color: rgba(3, 79, 130, 0.5);
+  background-color: #034f82d9;
   a {
     color: #fff;
     text-decoration: none;
@@ -79,8 +79,7 @@ h3 {
   left: 40px;
   padding: 20px;
   border-radius: 15px;
-  font-size:14pt;
-
+  font-size: 14pt;
 
   @media (min-width: $max-small-screen) {
     width: 20vw;
@@ -146,7 +145,7 @@ h3 {
 
 .kudos.section {
   //min-height: 100vh;
-  background-color: rgba(56, 180, 0, 0.4);
+  background-color: #00aaffbb;
   //background-color: rgba(56,180,232,.3);
   .recommendations {
     padding-bottom: 60px;
@@ -228,7 +227,7 @@ h3 {
 
 .contact.section {
   min-height: 100vh;
-  background-color: rgba(56, 180, 232, 0.3);
+  background-color: #8dd0f9;
   .content {
     max-width: 960px;
     margin: auto;

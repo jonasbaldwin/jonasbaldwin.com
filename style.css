@@ -41,7 +41,7 @@ h3 {
   margin: 0 auto;
   padding: 10px 0 10px 0;
   z-index: 100;
-  background-color: rgba(3, 79, 130, 0.5);
+  background-color: rgba(3, 79, 130, 0.8509803922);
 }
 @media (min-width: 500px) {
   .navigation {
